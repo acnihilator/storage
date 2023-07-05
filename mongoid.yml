@@ -1,0 +1,6 @@
+development:
+  clients:
+    default:
+      database: rgpd
+      hosts:
+        - root:example@51.91.252.72:27107
